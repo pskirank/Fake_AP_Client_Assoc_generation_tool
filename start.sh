@@ -1,5 +1,5 @@
+#--------------------Author: P S Kiran Kundurthi-----------------------------
 #! /bin/bash
-
 echo "Enter the Number of APs:"
 read ap
 echo "Enter the Number of Clients:"
